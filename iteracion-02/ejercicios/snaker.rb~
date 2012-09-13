@@ -4,6 +4,7 @@ class Snaker
     if input == nil || input == ""
       return ""
     end
+    #input.each() (|str| str.each (|c| ))
     "HoLaMuNdO"
   end
 
